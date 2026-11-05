@@ -56,4 +56,4 @@ Here are other professional development workshops offered by the D-Lab:
 
 # Contributors
 
-[Nikita Jayaprakash] (https://nikita-jaya.github.io)
+* [Nikita Jayaprakash](https://nikita-jaya.github.io)
