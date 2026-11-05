@@ -1,93 +1,46 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab AI in Job Search Process Workshop
 
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
 [![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. 
+This repository contains the materials for D-Lab AI in Job Search Process workshop. In 30 minutes, we'll cover how AI is used by HR for screening candidates as well as how prospective applicants can use AI throughout their hiring process. 
 
 ## Prerequisites
-We recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
+No programming experience is required. If you've used ChatGPT or a similar chatbot before, you have all the background you need.
 
 Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
-
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
+Whether you are looking for your first internship or reentering the job market, this workshop covers the entire job search process, focusing on how the hiring landscape has changed (and how it hasn’t). We cover all aspects of the application process, including career exploration, ATS (applicant tracking software), sending applications, and interview prep.
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
-
-This workshop does not cover the following:
-
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
+- [Use generative AI to search for career paths].
+- [Understand how AI is used in ATS(applicant tracking software) systems and the resulting algorithms bias].
+- [Use generative AI to tune your resumes to match the job description in an ATS-friendly manner].
+- [Use AI for interview prep and how the application process has not changed due to AI].
 
 
 ## Installation Instructions
 
-We will use [RStudio/Python] to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
+We will use Claude during the demo. A free account of any chatbot that allows for document upload and document writing (e.g. Google Gemini or OpenAI ChatGPT) is enough for the workshop. You may use either the browser or Desktop version of these chatbots.
 
-1. This step(s) details software to download, with a link.
-2. Download these workshop materials:
-    * Click the green "Code" button in the top right of the repository information.
-    * Click "Download Zip".
-    * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
+## Workshop Materials
 
-## Is [Language] not Working on Your Computer?
-
-If you do not have [Language] installed and the materials loaded on your
-workshop by the time it starts, we *strongly* recommend using the UC Berkeley
-Datahub to run the materials for these lessons. You can access the DataHub by
-clicking the following button:
-
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-
-The DataHub downloads this repository, along with any necessary packages, and
-allows you to run the materials in an RStudio instance on UC Berkeley's servers.
-No installation is necessary from your end - you only need an internet browser
-and a CalNet ID to log in. By using the DataHub, you can save your work and come
-back to it at any time. When you want to return to your saved work, just go
-straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
-
-If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
-
-By using this button, however, you cannot save your work.
-
-
-## Run the Code
-
-Now that you have all the required software and materials, you need to run the code:
-
-Provide instructions on running the code, including how to load relevant software (RStudio, Jupyter Notebooks, etc.) and which file to open up. See other repositories for examples.
-
-Additionally, provide instructions on how to run code once it’s open (running Jupyter cells, RMarkdown cells, etc.).
+* [Workshop slides](https://docs.google.com/presentation/d/1WqConDIIEGfWTzxOOp21fv-9Kh4wpo5FrqUEsGrFZlA/edit?slide=id.h66a337307f02c48b_4_115&pli=1#slide=id.h66a337307f02c48b_4_115)
 
 # Additional Resources
 
-Check out the following resources to learn more about [Workshop topics]:
+Check out the following resources to learn more about AI in the hiring process:
 
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
-
+* [Utilizing Generative AI (UC Berkeley Career Engagement)](https://career.berkeley.edu/prepare-for-success/utilizing-generative-ai/): _More information about using generative AI for your career exploration_
+* [Does Tailoring Your Resume Actually Increase Interview Rates? What the Data Says (2026)](https://www.22skills.com/blog/does-tailoring-your-resume-increase-interview-rates): _More information about if tailoring your resume actually helps your job prospects_
+* [AI Hiring Tools Can Yield Racial Bias and Systemic Rejection](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection): _More about algorithmic bias in AI hiring systems_
+* [AI is more likely than humans to form biases when hiring](https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/): _A simulation study replicating a prior psychological study found that AI is more likely than humans to develop bias_
 
 # About the UC Berkeley D-Lab
 
@@ -95,19 +48,12 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
+# Other D-Lab Professional Development Workshops
 
-Here are other [Language] workshops offered by the D-Lab:
+Here are other professional development workshops offered by the D-Lab:
 
-## Basic Competency
-
-**Provide a list of workshops here.**
-
-## Intermediate/Advanced Competency
-
-**Provide a list of workshops here.**
+* [Data Science/Statistics Careers](https://github.com/dlab-berkeley/Data-Science-Statistics-Careers) - learn about different careers for statistics/data science degrees and pursuing opportunities during college
 
 # Contributors
 
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+[Nikita Jayaprakash] (https://nikita-jaya.github.io)
