@@ -19,10 +19,10 @@ Whether you are looking for your first internship or reentering the job market, 
 
 After this workshop, you will be able to:
 
-- [Use generative AI to search for career paths].
-- [Understand how AI is used in ATS(applicant tracking software) systems and the resulting algorithms bias].
-- [Use generative AI to tune your resumes to match the job description in an ATS-friendly manner].
-- [Use AI for interview prep and how the application process has not changed due to AI].
+- Use generative AI to search for career paths.
+- Understand how AI is used in ATS(applicant tracking software) systems and the resulting algorithms bias.
+- Use generative AI to tune your resumes to match the job description in an ATS-friendly manner.
+- Use AI for interview prep and how the application process has not changed due to AI.
 
 
 ## Installation Instructions
