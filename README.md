@@ -31,7 +31,7 @@ We will use Claude during the demo. A free account of any chatbot that allows fo
 
 ## Workshop Materials
 
-* [Workshop slides](https://docs.google.com/presentation/d/1WqConDIIEGfWTzxOOp21fv-9Kh4wpo5FrqUEsGrFZlA/edit?slide=id.h66a337307f02c48b_4_115&pli=1#slide=id.h66a337307f02c48b_4_115)
+* [Workshop slides](https://docs.google.com/presentation/d/1WqConDIIEGfWTzxOOp21fv-9Kh4wpo5FrqUEsGrFZlA/edit?slide=id.p&pli=1#slide=id.p)
 * [Demo Video](https://drive.google.com/file/d/1a4lGZ4BnvcqNYuXUvAR2uaNBPxQ_NWN2/view?t=2.757)
     * Example prompt: _I want to set up a Claude project for job search process with a separate chat for career exploration, finding specific opportunities, for tuning my resume to match job descriptions, for writing a cover letter, and for prepping for interviews. How should I set up the project and with what user and system prompts?_
 
